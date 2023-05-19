@@ -1,0 +1,25 @@
+.IdCard{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+
+}
+.ImgCard{
+    width: 16rem;
+    height: 16rem;
+}
+.InfoCard{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: center;
+    align-items: flex-start;
+
+
+}
